@@ -1,3 +1,7 @@
-*.csv
+*.dat
 results/
+
 .Rproj.user
+.Rhistory
+.Rdata
+*.Rproj
